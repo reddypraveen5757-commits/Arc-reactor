@@ -1,0 +1,6 @@
+{
+  "name": "Arc Reactor 3D - Next-Gen Energy Core",
+  "description": "An interactive 3D cinematic simulation of an Iron Man-inspired Arc Reactor featuring realistic metallic materials, particle dynamics, dynamic lighting, and futuristic HUD controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
